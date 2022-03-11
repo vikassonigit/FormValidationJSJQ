@@ -1,0 +1,14 @@
+.container{
+    border: 1px solid black;
+    margin: 50px 0;
+}
+h3{
+    text-align: center;
+    color: rgb(1, 99, 99);
+}
+form.row{
+    margin: 10px 0 20px 0;
+}
+.error{
+    color: red;
+}
